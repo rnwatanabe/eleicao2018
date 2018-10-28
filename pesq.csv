@@ -1,72 +1,74 @@
-dia,Alckmin,Haddad,Meirelles,Boulos,Marina,Ciro,Bolsonaro,Daciolo,Dias,Amoedo,Peso,STD,Identificação
-14,9,7,2,1,11,8,23,1,5,1,1,1.5,"'XP investimento 15/08',"
-2,19,4,0,0,11,8,16,0,4,0,0.22,1.5,"                'Ibope, Estado SP',"
-15,7,3,2,0,9,8,28,1,6,3,0.0018,1.5,"                'Ibope, Estado AL',"
-11,9,4,1,1,13,10,24,1,5,1,1,1.5,"                'Pesquisa Paraná',"
-13,1,2,1,1,11,39,14,1,1,1,0.04,1.5,"                'Ibope, Estado CE, 16/08',"
-7,10,3,2,0,12,8,23,0,4,0,1,1.5,"                'XP investimento 09/08',"
-0,10,2,2,1,11,10,22,0,5,0,1,1.5,"                'XP investimento 01/08',"
-17,7,6,1,1,10,8,21,0,3,1,1,1.5,"                'CNT/MDA 20/08 - Votos dos candidatos igual a voto próprio mais votos que vêm do Lula',"
-18,7,4,1,1,12,9,20,1,3,1,1,1.5,"                'Ibope Nacional 20/08',"
-20,9,4,2,1,16,10,22,1,4,2,1,1.5,"                'Datafolha 22/08',"
-19,5,2,1,0,8,5,22,0,27,2,0.06,1.5,"                'Ibope, Estado PR, 22/08',"
-14,7,1,1,1,10,9,39,1,2,1,0.0018,1.5," 'Ibope, Estado RR, 18/08',"
-19,6,2,1,0,12,8,33,1,3,1,0.0078,1.5," 'Ibope, Estado RO, 23/08',"
-19,6,2,0,1,19,7,37,2,3,0,0.0032,1.5,"                'Ibope, Estado AC, 23/08',"
-20,6,5,2,0,16,8,13,1,2,1,0.07,1.5,"                'Ibope, Estado BA, 23/08',"
-18,8,6,1,1,16,17,10,1,2,1,0.016,1.5,"                'Ibope, Estado PI, 22/08',"
-17,8,3,2,0,23,11,21,1,2,1,0.03,1.5,"'Ibope, Estado PA, 21/08',"
-17,15,5,1,2,10,8,22,1,3,2,0.22,1.5,"                'Ibope, Estado SP, 21/08',"
-17,4,2,2,1,12,10,25,1,2,2,0.08,1.5,"                'Ibope, Estado RJ, 21/08',"
-15,6,2,2,1,15,9,29,1,1,1,0.06,1.5,"'Ibope, Estado RS, 20/08',"
-14,6,2,5,1,14,10,28,1,2,1,0.03,1.5,"                'Ibope, Estado GO, 19/08',"
-14,8,2,2,0,14,13,26,0,1,1,0.007,1.5,"                'Ibope, Estado TO, 19/08',"
-14,5,2,1,1,27,10,24,1,2,1,0.0028,1.5,"                'Ibope, Estado AP, 17/08',"
-14,8,3,1,1,16,7,12,1,2,1,0.01,1.5,"'Ibope, Estado SE, 17/08',"
-14,5,1,2,0,18,11,26,2,2,1,0.014,1.5," 'Ibope, Estado AM, 17/08',"
-14,4,2,2,0,9,12,14,0,3,0,0.017,1.5," 'Ibope, Estado RN, 17/08',"
-14,7,3,2,1,9,8,28,1,6,3,0.03,1.5," 'Ibope, Estado SC, 17/08',"
-3,15,8,1,1,8,6,19,0,2,1,0.22,1.5," 'CNT/MDA, Estado SP, 06/08',"
-21,8,13,1,1,9,8,20,1,5,2,1,1.5,"                'XP investimento Naciona (Haddad com apoio de Lula)l, 24/08',"
-21,6,4,1,0,17,14,14,0,2,0,0.03,1.5,"                'Ibope, Estado MA, 24/08',"
-21,8,12,2,1,12,8,23,1,5,2,1,1.6,"XP Investimento , 24/08"
-1,3,12,0,0,6,10,17,0,1,0,0.017,1.5,"                'Instituro Diagnóstico, Estado RN, 01/08',"
-4,15,8,1,1,8,6,19,0,2,1,0.22,1.5,"                'MDA, Estado SP, 05/08',"
-8,7,5,7,1,11,7,26,1,1,0,0.02,1.5,"                'Serpes, Estado GO, 10/08',"
-10,9,6,1,1,11,8,21,0,6,1,1,1.5,"'Real Time Big Data, Nacional, 11/08',"
-12,7,5,2,1,15,10,27,1,3,2,0.013,1.5," 'Opinião Consultoria, DF, 13/08'"
-26,9,5,1,1,15,8,24,1,3,4,1,1,"BTG Pactual Nacional, 27/08"
-22,9,3,0,0,14,26,26,1,4,2,0.013,1.5,"Ibope, Estado MS, 27/08"
-22,5,3,1,1,12,9,31,1,2,1,0.013,1.5,"Ibope, DF, 27/08"
-22,6,4,1,1,14,11,17,0,2,1,0.02,1.5,"Ibope, Estado PB"
-23,7,3,1,1,15,8,27,1,3,1,0.015,1.5,"Ibope, MT, 27/08"
-28,17,7,1,1,11,7,23,0,4,4,0.22,1.5,"Parana, SP, 31/08"
-28,8,13,1,1,10,10,21,1,4,4,1,1.6,XP Investimento (Haddad com apoio de Lula)
-28,9,6,1,1,13,10,23,1,4,4,1,1.6,XP Investimento (Haddad)
-27,4,5,1,1,15,9,30,1,3,3,0.08,1.5,"Parana, RJ, 02/09"
-33,8,6,1,1,11,12,26,1,3,4,1,1.5,"BTG Pactual Nacional, 03/09"
-25,7,4,1,1,11,9,22,1,2,3,0.11,1.5,"Ibope, MG, 03/09"
-34,4,4,1,1,5,8,23,1,23,4,0.06,1.5,"Ibope, PR, 04/09"
-33,9,6,2,1,12,12,22,0,3,3,1,1,Ibope Nacional 05/09
-35,9,8,1,1,11,11,23,1,4,4,1,1.6,"XP Investimento , 07/09"
-35,8,14,2,0,8,10,20,1,4,4,1,1.6,"XP Investimento , 07/09 (Haddad com apoio de Lula)"
-40,8,8,3,1,8,12,30,1,3,3,1,1.6,"BTG Pactual Nacional, 10/09"
-39,18,7,3,1,8,11,23,1,2,5,0.22,1.5,"Ibope, SP, 10/09"
-41,10,9,3,1,11,13,24,1,3,3,1,1,"Datafolha Nacional, 10/09"
-39,5,5,2,1,11,10,33,1,1,2,0.08,1.5,"Ibope, RJ, 11/09"
-38,15,8,2,0,8,9,25,0,3,5,0.22,1.6,"XP, SP, 11/09"
-38,15,11,2,1,7,8,24,0,3,5,0.22,1.6,"XP, SP, 11/09 (Haddad com apoio de Lula)"
-34,6,10,1,0,15,13,12,1,1,1,0.04,1.6,"Ibope, PE, 11/09"
-35,6,9,3,1,8,9,26,1,2,3,0.06,1.6,"Ibope, RS, 11/09"
-37,9,5,2,1,15,13,24,0,1,2,0.02,1.6,"Ibope, ES, 11/09"
-40,9,8,3,0,9,11,26,1,3,3,1,1,Ibope Nacional 11/09
-32,2,17,0,0,6,14,11,1,1,0,0.016,1.5,"Opinar, PI, 03/09"
-37,8,8,9,0,9,10,26,1,1,2,0.02,1.5,"                'Serpes, Estado GO, 05/09',"
-40,9,8,2,1,11,12,27,2,4,3,1,1,"Parana, Nacional, 12/09"
-39,9,7,2,1,11,11,25,1,4,3,1,1,"Real Time Big Data, Nacional, 13/09"
-41,6,7,3,1,10,13,37,1,1,3,0.013,1.5,"Ibope, DF, 13/09"
-41,8,10,3,1,9,11,27,1,2,4,0.11,1.5,"ibope, MG, 13/09"
-41,15,10,3,2,9,9,24,1,2,5,0.22,1,"DataPoder360, SP, 14/09"
-41,9,10,3,2,7,14,24,4,2,3,0.11,1,"DataPoder360, MG, 14/09"
-42,9,10,2,1,8,12,26,0,4,4,1,1.6,"XP Investimento , 14/09"
-42,9,16,2,1,6,11,23,0,4,4,1,1.6,"XP Investimento , 14/09 (Haddad com apoio  de Lula)"
+dia,Alckmin,Haddad,Meirelles,Boulos,Marina,Ciro,Bolsonaro,Daciolo,Dias,Amoedo,Peso,STD,Identificação,Metodo
+14,9,7,2,1,11,8,23,1,5,1,1,1.5,"'XP investimento 15/08',",Telefone
+2,19,4,0,0,11,8,16,0,4,0,0.22,1.5,"                'Ibope, Estado SP',",Presencial
+15,7,3,2,0,9,8,28,1,6,3,0.0018,1.5,"                'Ibope, Estado AL',",Presencial
+11,9,4,1,1,13,10,24,1,5,1,1,1.5,"                'Pesquisa Paraná',",Presencial
+13,1,2,1,1,11,39,14,1,1,1,0.04,1.5,"                'Ibope, Estado CE, 16/08',",Presencial
+7,10,3,2,0,12,8,23,0,4,0,1,1.5,"                'XP investimento 09/08',",Telefone
+0,10,2,2,1,11,10,22,0,5,0,1,1.5,"                'XP investimento 01/08',",Telefone
+17,7,6,1,1,10,8,21,0,3,1,1,1.5,"                'CNT/MDA 20/08 - Votos dos candidatos igual a voto próprio mais votos que vêm do Lula',",Presencial
+18,7,4,1,1,12,9,20,1,3,1,1,1.5,"                'Ibope Nacional 20/08',",Presencial
+20,9,4,2,1,16,10,22,1,4,2,1,1.5,"                'Datafolha 22/08',",Presencial
+19,5,2,1,0,8,5,22,0,27,2,0.06,1.5,"                'Ibope, Estado PR, 22/08',",Presencial
+14,7,1,1,1,10,9,39,1,2,1,0.0018,1.5," 'Ibope, Estado RR, 18/08',",Presencial
+19,6,2,1,0,12,8,33,1,3,1,0.0078,1.5," 'Ibope, Estado RO, 23/08',",Presencial
+19,6,2,0,1,19,7,37,2,3,0,0.0032,1.5,"                'Ibope, Estado AC, 23/08',",Presencial
+20,6,5,2,0,16,8,13,1,2,1,0.07,1.5,"                'Ibope, Estado BA, 23/08',",Presencial
+18,8,6,1,1,16,17,10,1,2,1,0.016,1.5,"                'Ibope, Estado PI, 22/08',",Presencial
+17,8,3,2,0,23,11,21,1,2,1,0.03,1.5,"'Ibope, Estado PA, 21/08',",Presencial
+17,15,5,1,2,10,8,22,1,3,2,0.22,1.5,"                'Ibope, Estado SP, 21/08',",Presencial
+17,4,2,2,1,12,10,25,1,2,2,0.08,1.5,"                'Ibope, Estado RJ, 21/08',",Presencial
+15,6,2,2,1,15,9,29,1,1,1,0.06,1.5,"'Ibope, Estado RS, 20/08',",Presencial
+14,6,2,5,1,14,10,28,1,2,1,0.03,1.5,"                'Ibope, Estado GO, 19/08',",Presencial
+14,8,2,2,0,14,13,26,0,1,1,0.007,1.5,"                'Ibope, Estado TO, 19/08',",Presencial
+14,5,2,1,1,27,10,24,1,2,1,0.0028,1.5,"                'Ibope, Estado AP, 17/08',",Presencial
+14,8,3,1,1,16,7,12,1,2,1,0.01,1.5,"'Ibope, Estado SE, 17/08',",Presencial
+14,5,1,2,0,18,11,26,2,2,1,0.014,1.5," 'Ibope, Estado AM, 17/08',",Presencial
+14,4,2,2,0,9,12,14,0,3,0,0.017,1.5," 'Ibope, Estado RN, 17/08',",Presencial
+14,7,3,2,1,9,8,28,1,6,3,0.03,1.5," 'Ibope, Estado SC, 17/08',",Presencial
+3,15,8,1,1,8,6,19,0,2,1,0.22,1.5," 'CNT/MDA, Estado SP, 06/08',",Presencial
+21,8,13,1,1,9,8,20,1,5,2,1,1.5,"                'XP investimento Naciona (Haddad com apoio de Lula)l, 24/08',",Telefone
+21,6,4,1,0,17,14,14,0,2,0,0.03,1.5,"                'Ibope, Estado MA, 24/08',",Presencial
+21,8,12,2,1,12,8,23,1,5,2,1,1.6,"XP Investimento , 24/08",Telefone
+1,3,12,0,0,6,10,17,0,1,0,0.017,1.5,"                'Instituro Diagnóstico, Estado RN, 01/08',",Telefone
+4,15,8,1,1,8,6,19,0,2,1,0.22,1.5,"                'MDA, Estado SP, 05/08',",Presencial
+8,7,5,7,1,11,7,26,1,1,0,0.02,1.5,"                'Serpes, Estado GO, 10/08',",Telefone
+10,9,6,1,1,11,8,21,0,6,1,1,1.5,"'Real Time Big Data, Nacional, 11/08',",Presencial
+12,7,5,2,1,15,10,27,1,3,2,0.013,1.5," 'Opinião Consultoria, DF, 13/08'",Telefone
+26,9,5,1,1,15,8,24,1,3,4,1,1,"BTG Pactual Nacional, 27/08",Telefone
+22,9,3,0,0,14,26,26,1,4,2,0.013,1.5,"Ibope, Estado MS, 27/08",Presencial
+22,5,3,1,1,12,9,31,1,2,1,0.013,1.5,"Ibope, DF, 27/08",Presencial
+22,6,4,1,1,14,11,17,0,2,1,0.02,1.5,"Ibope, Estado PB",Presencial
+23,7,3,1,1,15,8,27,1,3,1,0.015,1.5,"Ibope, MT, 27/08",Presencial
+28,17,7,1,1,11,7,23,0,4,4,0.22,1.5,"Parana, SP, 31/08",Presencial
+28,8,13,1,1,10,10,21,1,4,4,1,1.6,XP Investimento (Haddad com apoio de Lula),Telefone
+28,9,6,1,1,13,10,23,1,4,4,1,1.6,XP Investimento (Haddad),Telefone
+27,4,5,1,1,15,9,30,1,3,3,0.08,1.5,"Parana, RJ, 02/09",Presencial
+33,8,6,1,1,11,12,26,1,3,4,1,1.5,"BTG Pactual Nacional, 03/09",Telefone
+25,7,4,1,1,11,9,22,1,2,3,0.11,1.5,"Ibope, MG, 03/09",Presencial
+34,4,4,1,1,5,8,23,1,23,4,0.06,1.5,"Ibope, PR, 04/09",Presencial
+33,9,6,2,1,12,12,22,0,3,3,1,1,Ibope Nacional 05/09,Presencial
+35,9,8,1,1,11,11,23,1,4,4,1,1.6,"XP Investimento , 07/09",Telefone
+35,8,14,2,0,8,10,20,1,4,4,1,1.6,"XP Investimento , 07/09 (Haddad com apoio de Lula)",Telefone
+40,8,8,3,1,8,12,30,1,3,3,1,1.6,"BTG Pactual Nacional, 10/09",Telefone
+39,18,7,3,1,8,11,23,1,2,5,0.22,1.5,"Ibope, SP, 10/09",Presencial
+41,10,9,3,1,11,13,24,1,3,3,1,1,"Datafolha Nacional, 10/09",Presencial
+39,5,5,2,1,11,10,33,1,1,2,0.08,1.5,"Ibope, RJ, 11/09",Presencial
+38,15,8,2,0,8,9,25,0,3,5,0.22,1.6,"XP, SP, 11/09",Telefone
+38,15,11,2,1,7,8,24,0,3,5,0.22,1.6,"XP, SP, 11/09 (Haddad com apoio de Lula)",Telefone
+34,6,10,1,0,15,13,12,1,1,1,0.04,1.6,"Ibope, PE, 11/09",Presencial
+35,6,9,3,1,8,9,26,1,2,3,0.06,1.6,"Ibope, RS, 11/09",Presencial
+37,9,5,2,1,15,13,24,0,1,2,0.02,1.6,"Ibope, ES, 11/09",Presencial
+40,9,8,3,0,9,11,26,1,3,3,1,1,Ibope Nacional 11/09,Presencial
+32,2,17,0,0,6,14,11,1,1,0,0.016,1.5,"Opinar, PI, 03/09",Telefone
+37,8,8,9,0,9,10,26,1,1,2,0.02,1.5,"                'Serpes, Estado GO, 05/09',",Telefone
+40,9,8,2,1,11,12,27,2,4,3,1,1,"Parana, Nacional, 12/09",Presencial
+39,9,7,2,1,11,11,25,1,4,3,1,1,"Real Time Big Data, Nacional, 13/09",Presencial
+41,6,7,3,1,10,13,37,1,1,3,0.013,1.5,"Ibope, DF, 13/09",Presencial
+41,8,10,3,1,9,11,27,1,2,4,0.11,1.5,"ibope, MG, 13/09",Presencial
+41,15,10,3,2,9,9,24,1,2,5,0.22,1,"DataPoder360, SP, 14/09",Telefone
+41,9,10,3,2,7,14,24,4,2,3,0.11,1,"DataPoder360, MG, 14/09",Telefone
+42,9,10,2,1,8,12,26,0,4,4,1,1.6,"XP Investimento , 14/09",Telefone
+42,9,16,2,1,6,11,23,0,4,4,1,1.6,"XP Investimento , 14/09 (Haddad com apoio  de Lula)",Telefone
+45,9,13,3,1,8,13,26,4,3,3,1,1,"Datafolha Nacional, 14/09",Presencial
+42,10,11,3,0,8,10,29,2,2,2,0.06,1.5,Ibope RS 14/09,Presencial

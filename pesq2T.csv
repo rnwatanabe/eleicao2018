@@ -1,0 +1,57 @@
+dia,Haddad,Bolsonaro,Branco/Nulo,Não sabe,Peso,STD,Identificação,Metodo
+10,36,49,8,6,1,1,"Datafolha, 10/10, Nacional",Presencial
+9,22,63,11,5,0.01,1,"Paraná, 11/10, DF",Presencial
+9,36,51,10,4,1,1.5,"XP/Ipespe,11/10, Nacional",Telefone
+14,35,51,9,5,1,1,BTG,Telefone
+12,26,59,10,5,0.22,1,"Paraná, SP ",Presencial
+10,26,59,10,5,0.11,1,"Paraná, MG",Presencial
+14,37,52,9,2,1,1,Ibope,Presencial
+13,33,48,11,8,1,1,RealTimeData,Presencial
+15,25,60,10,5,0.08,1,"Paraná, RJ",Presencial
+16,34,53,9,4,1,1,"Parná, Nacional",Presencial
+16,32,55,10,2,0.22,1.5,"Ibope, SP ",Presencial
+16,30,56,10,4,0.08,1.5,"Ibope, RJ",Presencial
+15,37,51,8,4,0.06,1.5,"Ibope, RS",Presencial
+15,50,38,9,3,0.02,1.5,"Ibope, RN",Presencial
+16,32,52,11,5,0.11,1.5,"Ibope, MG",Presencial
+15,27,63,8,3,0.01,1.5,"Ibope, DF",Presencial
+18,35,50,10,5,1,1,"Datafolha, Nacional",Presencial
+18,31,57,9,3,1,1,DatapODER,Telefone
+17,35,52,8,5,1,1,RealTimeData,Presencial
+16,37,51,13,0,1,1,"XP/Ipespe, Nacional",Telefone
+16,46,44,7,3,0.03,1.5,"Ibope,PA",Presencial
+16,59,29,8,4,0.01,1.5,"Ibope, SE",Presencial
+17,36,57,6,1,0.01,1.5,"Ibope, AM",Presencial
+17,32,56,8,5,0.01,1.5,"Ibope, MS",Presencial
+17,20,72,6,2,0.01,1.5,"Ibope, RO",Presencial
+17,23,66,7,4,0.03,1.5,"Ibpe, SC",Presencial
+21,35,52,8,5,1,1,BTG,Telefone
+19,27,60,9,5,0.22,1,"Paraná, SP ",Presencial
+21,37,49,11,4,1,1,CNT/MDA,Presencial
+20,37,52,7,4,1,1,RealTimeData,Presencial
+22,37,50,10,3,1,1,Ibope,Presencial
+22,33,50,14,4,0.11,1.5,"Ibope, MG",Presencial
+21,26,62,9,3,0.01,1.5,"Ibope, DF",Presencial
+22,31,54,11,3,0.22,1.5,"Ibope, SP ",Presencial
+22,37,51,8,4,0.06,1.5,"Ibope, RS",Presencial
+22,30,55,10,4,0.08,1.5,"Ibope, RJ",Presencial
+23,27,59,9,4,1,1,Paraná,Presencial
+25,38,48,8,6,1,1,Datafolha,Presencial
+24,37,51,10,2,1,1,"XP/Ipespe, Nacional",Telefone
+24,34,53,9,4,1,1,Paraná,Presencial
+4,42,45,8,0,1,1,DataPoder360,Telefone
+4,43,44,8,9,1,1,Datafolha,Presencial
+3,38,47,15,0,1,1,Paraná,Presencial
+4,42,43,15,0,1,1,"XP/Ipespe, Nacional",Telefone
+5,39,45,16,0,1,1,CNT/MDA,Presencial
+4,40,43,17,0,1,1,RealTimeData,Presencial
+5,41,45,14,0,1,1,Ibope,Presencial
+6,43,45,13,0,1,1,Datafolha,Presencial
+27,37,49,10,4,1,1.1,CNT/MDA,Presencial
+25,43,43,9,5,1,1.1,VoxPopuli,Presencial
+25,40,54,5,1,0.01,1.5,"Ibope, AM",Presencial
+25,56,35,6,3,0.02,1.5,"Ibope, RN",Presencial
+25,27,61,8,3,0.03,1.5,"Ibope,SC",Presencial
+27,41,47,10,2,1,1,Ibope,Presencial
+27,39,47,8,5,1,1,Datafolha,Presencial
+26,39,47,9,5,1,1,RealTimeData,Presencial
